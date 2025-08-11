@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Learning and Building... 
+
 <!--
 **aarondelp1/aarondelp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
