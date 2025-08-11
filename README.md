@@ -14,4 +14,5 @@ This is a hobby project site, I tend to dabble in retro gaming devices (I own 3x
 
 ## Get in Touch 📬
 
+- **[The Cloudcast Podcast]** https://www.thecloudcast.net
 - **[LinkedIn]** https://www.linkedin.com/in/aarondelp/
